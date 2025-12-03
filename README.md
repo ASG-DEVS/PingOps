@@ -21,9 +21,8 @@ PingOps is a lightweight, fast, and practical monitoring tool designed to help N
 
 ---
 
-## 📥 Download (EXE)
+## [📥 Download (EXE)](https://github.com/ASG-DEVS/PingOps/releases/tag/v1.0.0)
 
-👉 **PingOps_v1.0.exe**  
 
 ---
 
